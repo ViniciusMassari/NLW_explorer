@@ -49,7 +49,7 @@ header div:hover {
 
 header div img {
   width: 100%;
-  border-radius: 20%;
+  border-radius: 50%;
 }
 
 main {
@@ -133,6 +133,7 @@ main section:nth-child(2) {
 main section:nth-child(3) {
   animation-delay: 0.8s;
 }
+
 /* animation */
 
 @keyframes fromTop {
